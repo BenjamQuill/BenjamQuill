@@ -9,6 +9,6 @@ Somthings about me : I'm 32 years old and i have been developing since december 
 - 🔭 I’m currently working on digital liaison notebook.
 - 🌱 I’m currently learning to put my knowledge into practice.
 - 💬 Ask me about my learning, my formation or my knowledges. 
-- 📫 How to reach me: benjamin.dujarrier@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/benjamin-dujarrier/
 - 😄 Pronouns: BenjamQuill
 - ⚡ Fun fact: I started my retraining for more comfort of life for my daughter.
